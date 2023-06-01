@@ -1,0 +1,8 @@
+.counter {
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    background: aquamarine;
+    padding: 32px;
+    gap:32px
+}

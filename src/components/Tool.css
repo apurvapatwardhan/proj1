@@ -1,0 +1,21 @@
+.tool {
+    display: flex;
+    justify-content: center;
+    gap: 32px;
+    font-size: 32px;
+    background-color: cadetblue;
+}
+
+.minus, .plus {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.minus button, .plus button {
+    font-size: 24px;
+    border:none;
+    background-color: antiquewhite;
+    padding: 8px 16px;
+}
+
